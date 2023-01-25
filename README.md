@@ -1,4 +1,5 @@
-#Bake the Internet
+##Bake the Internet
+
 This is an online store I was asked to create that will allow customers to palace orders for deserts
 
 - React App
