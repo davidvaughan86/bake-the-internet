@@ -1,0 +1,19 @@
+.App {
+  background-color: #ea047e;
+  color: #faf3e3;
+}
+
+h5 {
+  font-family: "Dongle", sans-serif;
+}
+
+.form {
+  font-family: "Dongle", sans-serif;
+}
+
+aside {
+  font-family: "Dongle", sans-serif;
+  font-size: 30px;
+  color: yellow;
+  text-align: center;
+}
